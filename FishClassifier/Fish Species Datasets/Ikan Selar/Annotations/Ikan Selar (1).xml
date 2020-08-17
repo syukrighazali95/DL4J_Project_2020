@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ikan Selar</folder>
+	<filename>Ikan Selar (1).jpg</filename>
+	<path>C:\Users\Forge-15\Desktop\Fish Species Datasets\Ikan Selar\Ikan Selar (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ikan Selar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>212</ymin>
+			<xmax>565</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

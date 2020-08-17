@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ikan Kerisi</folder>
+	<filename>Ikan Kerisi (36).jpg</filename>
+	<path>C:\Users\Forge-15\Desktop\Fish Species Datasets\Ikan Kerisi\Ikan Kerisi (36).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ikan Kerisi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>67</ymin>
+			<xmax>236</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ikan Kerisi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>13</ymin>
+			<xmax>209</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

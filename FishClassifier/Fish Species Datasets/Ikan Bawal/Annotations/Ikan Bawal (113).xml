@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ikan Bawal</folder>
+	<filename>Ikan Bawal (113).jpg</filename>
+	<path>C:\Users\Forge-15\Desktop\Fish Species Datasets\Ikan Bawal\Ikan Bawal (113).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ikan Bawal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>7</ymin>
+			<xmax>225</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+</annotation>
