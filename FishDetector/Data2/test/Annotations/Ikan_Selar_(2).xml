@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Ikan_Selar_(2).jpg</filename>
+	<path>C:\Users\Forge-15\.deeplearning4j\data\Fish Species Datasets\data2\test\Ikan_Selar_(2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ikan Selar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>123</ymin>
+			<xmax>200</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ikan Selar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>93</ymin>
+			<xmax>195</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ikan Selar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>65</ymin>
+			<xmax>198</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>
